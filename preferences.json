@@ -1,3 +1,5 @@
-favorit film: 'Gentelmens'
-favorit meal: 'Gamburger'
-favorit season: 'Summer'
+{
+  favorit film: 'Gentelmens'
+  favorit meal: 'Gamburger'
+  favorit season: 'Summer'
+}
